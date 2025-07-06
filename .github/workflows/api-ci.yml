@@ -14,7 +14,7 @@ on:
           run:
             working-directory: ./api
 
-        stepts:
+        steps:
           - name: Checkout repository
             uses: actions/checkout@v2
 
